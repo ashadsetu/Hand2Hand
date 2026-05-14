@@ -33,6 +33,7 @@ It connects **donors**, **NGOs**, and **recipients** under one system — enabli
 
 ## 📁 Project Structure
 
+```
 HAND2HAND/
 │
 ├── venv/
@@ -46,8 +47,7 @@ HAND2HAND/
 ├── db.sqlite3
 ├── manage.py
 └── .gitignore
-
----
+```
 
 ## ⚙️ Installation & Setup
 
