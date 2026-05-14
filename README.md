@@ -51,7 +51,7 @@ HAND2HAND/
 
 ## ⚙️ Installation & Setup
 
-git clone https://github.com/<your-username>/HAND2HAND.git  
+git clone https://github.com/ashadsetu/Hand2Hand.git 
 cd HAND2HAND  
 
 python -m venv venv  
